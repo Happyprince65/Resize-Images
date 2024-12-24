@@ -19,8 +19,8 @@ This Node.js script processes images within a specified folder, redrawing each i
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/](https://github.com/)<your-username>/<your-repository-name>.git
-    cd <your-repository-name>
+    git clone https://github.com/Happyprince65/Resize-all-Images-in-a-folder-nft-traits.git
+   
     ```
 
 2.  **Install dependencies:**
